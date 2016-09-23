@@ -42,3 +42,6 @@ def mymedian(l:list)->float:
         return (lsorted[mididx-1] + lsorted[mididx])/2
     else:
         return lsorted[mididx]
+		
+		
+		
